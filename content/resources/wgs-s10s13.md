@@ -19,7 +19,9 @@ image_metadata:
   image-alt: A photographA mural painted on a wall features a body of water in which
     an African-American boy and a Caucasian girl stand.  The image of a woman surrounded
     by children is next to them. of a pregnant woman, in a blue shirt, holds her belly.
+learning_resource_types: []
 resourcetype: Image
 title: Mural designed by women imprisoned at Riker's Island
+type: OCWImage
 uid: a4ceec9e-a879-9f0d-1b85-fa876cfe6092
 ---
