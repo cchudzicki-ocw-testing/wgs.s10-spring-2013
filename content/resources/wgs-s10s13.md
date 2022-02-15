@@ -22,6 +22,5 @@ image_metadata:
 learning_resource_types: []
 resourcetype: Image
 title: Mural designed by women imprisoned at Riker's Island
-type: OCWImage
 uid: a4ceec9e-a879-9f0d-1b85-fa876cfe6092
 ---
