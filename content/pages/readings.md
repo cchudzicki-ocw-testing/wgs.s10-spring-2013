@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the readings assigned for each session of the course.
 draft: false
 learning_resource_types:
 - Readings
