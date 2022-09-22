@@ -20,6 +20,7 @@ image_metadata:
     an African-American boy and a Caucasian girl stand.  The image of a woman surrounded
     by children is next to them. of a pregnant woman, in a blue shirt, holds her belly.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Mural designed by women imprisoned at Riker's Island
